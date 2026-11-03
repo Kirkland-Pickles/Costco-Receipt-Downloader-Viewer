@@ -1,6 +1,16 @@
-# TechStud's Costco Receipt Downloader & Dashboard
+# Kirkland's Costco Receipt Downloader & Dashboard
 
-**An open-source, client-side solution for digitally archiving and analyzing your Costco in-warehouse receipt data.**
+**Disclaimer:** This is an independent, unofficial project that is not affiliated, endorsed, sponsored by,
+or associated with Costco Wholesale Corporation.
+
+**Original creator: [TechStud](https://github.com/TechStud)**
+
+This is a fork of
+[TechStud's Costco Receipt Downloader & Dashboard](https://github.com/TechStud/TCRDD).
+Full credit for the original project and receipt downloader
+goes to TechStud. This fork redesigns the dashboard (example below).
+
+<a href="docs/screenshots/receipt.png"><img src="docs/screenshots/receipt.png" alt="Receipt dashboard showing fictional data" width="350"></a>
 
 ---
 
